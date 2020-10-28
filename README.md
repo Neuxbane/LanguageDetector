@@ -41,4 +41,4 @@ Distributed under the GLU License. See `LICENSE` for more information.
 ## Contact
 
 Discord - Neuxbane#0045
-YouTube - [https://youtube.com/debanu]Subscribe!
+YouTube - [https://youtube.com/debanu] Subscribe!
