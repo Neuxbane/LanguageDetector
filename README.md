@@ -6,7 +6,6 @@ NeuralNetwork v1
 ## Table of Contents
 
 * [Installation](#How-to-run)
-* [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
 
@@ -14,19 +13,13 @@ NeuralNetwork v1
 <!-- GETTING STARTED -->
 ### How to run
 
-Just 3 steps!
+Just 3 simple steps!
 1. Open project file
-2. write "cmd" in file addres
+2. write "cmd" in file address
 3. run the project
 ```cmd
 python LanguageDetector.py
 ```
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/Neuxbane/NeuralNetwork/issues) for a list of proposed features (and known issues).
 
 
 
